@@ -1,6 +1,7 @@
 # CoderSchool FTW - Number Guessing Game
 
 Created with love by: Huy
+Demo: https://guessinggamehuy.netlify.com/
   
 This is a simple Canvas-based game that requires a solid understanding of the principles of JavaScript programming to customize. 
 
